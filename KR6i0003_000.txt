@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說八吉祥神經
+#+DATE: 2015-08-30 20:07:23.108129
+#+PROPERTY: JUAN 0
