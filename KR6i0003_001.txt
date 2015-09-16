@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:22.921004
+#+DATE: 2015-08-30 20:07:24.070907
 #+TITLE: 佛說八吉祥神呪經
 #+PROPERTY: CBETA_ID T14n0427
 #+PROPERTY: ID KR6i0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 427
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0003_T_001-0072b> 
 #+PROPERTY: JUAN 1
 ¶
-No.427[Nos.428-431]¶
-
- 佛說八吉祥神呪經¶
+No. 427 [Nos. 428-431]¶
+佛說八吉祥神呪經¶
 ¶
 吳月氏優婆塞支謙譯¶
 
@@ -151,8 +150,7 @@ No.427[Nos.428-431]¶
 #+END_VERSE
 」¶
 
-爾時，諸菩薩：颰陀和菩薩、羅憐那竭菩薩、橋¶
-日兜菩薩、那羅達菩薩、須深彌菩薩、摩訶¶
+爾時，諸菩薩：颰陀和菩薩、羅憐那竭菩薩、橋日兜菩薩、那羅達菩薩、須深彌菩薩、摩訶¶
 須和薩和菩薩、因祗達菩薩、和輪調菩¶
 薩，是八人求道已來無央數劫，於今未取¶
 佛，願言：「使十方天下、人民皆得佛道。若有急¶
